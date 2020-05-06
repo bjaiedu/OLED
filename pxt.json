@@ -1,0 +1,19 @@
+{
+    "name": "OLED",
+    "version": "2.0.9",
+    "description": "外接显示屏",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/oled-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "preferredEditor": "tsprj"
+}
